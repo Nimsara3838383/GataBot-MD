@@ -12,7 +12,7 @@ import { en, es, id, ar, pt, fr, hi } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],  
+  ['94719945674', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],  
   ['5492266466080', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
   ['59894808483', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
   ['5218442286089', 'DIEGO-OFC | COLABO', true],
@@ -45,14 +45,14 @@ global.Key360 = ['964f-0c75-7afc']
 //  en = English         pt = Português 
 //  ar = عرب             hi = Hindi Language
 
-global.lenguajeGB = es //Idioma de GataBot, Ejemplo: es | en | pt...
+global.lenguajeGB = en //Idioma de GataBot, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.openai_key = 'sk-...OzYy'
+global.openai_key = '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'
 /* Consigue tu ApiKey en este enlace: https://platform.openai.com/account/api-keys */
 
-global.openai_org_id = 'HITjoN7H8pCwoncEB9e3fSyW'
+global.openai_org_id = 'jZAgFujA1AwLW28lCyKyVTWn'
 /* Consigue tu ID de organizacion en este enlace: https://platform.openai.com/account/org-settings */
 
 global.keysZens = ['LuOlangNgentot', 'c2459db922', '37CC845916', '6fb0eff124', 'hdiiofficial', 'fiktod', 'BF39D349845E', '675e34de8a', '0b917b905e6f']
